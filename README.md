@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=02DC00&center=true&random=false&width=435&lines=Hello+World)](https://git.io/typing-svg)
-### I am Sergei, a developer from Russia and...  
+### I am Sergei, a Game developer from Russia and...  
 ### ...this is my profile on github!🙂
 
 
@@ -23,6 +23,8 @@
 ###  My guests:
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
+### My devlog in telegram:
+https://t.me/Devlog_Space_Nomad
 
 ### joke of the day:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
