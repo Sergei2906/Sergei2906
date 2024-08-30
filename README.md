@@ -9,9 +9,10 @@
 
 
 ### Skills for which there are no beautiful icons (it's sad😔):
-* Gdevelop 
-* MicroStudio Engine
-* Game- and Level- Desigin
+* Gdevelop (Middle)
+* Hugo (Junior)
+* Godot Engine(Junior)
+* Game- and Level- Desigin (Junior)
 
 
 ### My hobbies:
@@ -19,12 +20,8 @@
 * Listening to music :musical_note: 
 * Sport 🏋️‍♂️
 
-
-###  My guests:
-![](https://komarev.com/ghpvc/?username=your-github-username)
-
 ### My devlog in telegram:
 https://t.me/Devlog_Space_Nomad
 
-### joke of the day:
-![Jokes Card](https://readme-jokes.vercel.app/api)
+###  My guests:
+![](https://komarev.com/ghpvc/?username=your-github-username)
