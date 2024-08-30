@@ -11,7 +11,7 @@
 ### Skills for which there are no beautiful icons (it's sad😔):
 * Gdevelop (Middle)
 * Hugo (Junior)
-* Godot Engine(Junior)
+* Godot Engine (Junior)
 * Game- and Level- Desigin (Junior)
 
 
